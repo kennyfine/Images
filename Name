@@ -13,13 +13,42 @@
 
 
     </head>
-    <body>
+    <body
 
         <h1>All about goat meat</h1>
 
         <h2>Basic info</h2>
-        <p> Goat are stubborn but their meat is very sweet. I love goat meat. Goat meat is sweet but expensive and full of bones. I will still eat goat meat with the bones
-        </p>
+        <p> <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+        h2 {
+            colour; rgb(255,255,255);
+        }
+        body {
+             background-color rgb(97,250,255);
+       </style>
+
+
+    </head>
+    <body>
+
+        <h1>All about goats</h1>
+
+        <h2> Basic info</h2>
+
+
+        <p>
+         <em>Goats are stubborn</em> but their meat is very sweet.<br>
+         I love goat meat.Goat meat is sweet but expensive and full of bones.<br>
+         I will still eat goat meat with the bones, because <strong> <br>
+         I just can't get enough of that sweet flavor!</strong> <br> </p>
+
+    </body>
+</html>
+
 
     </body>
 </html>
