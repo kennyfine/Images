@@ -5,9 +5,11 @@
         <title>Challenge: Colorful creature</title>
         <style>
         h2 {
-            colour; rgb() 
-
-</style>
+            colour; rgb(255,255,255);
+        }
+        body {
+             background-color rgb(97,250,255);
+       </style>
 
 
     </head>
