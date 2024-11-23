@@ -9,6 +9,7 @@
         }
         body {
              background-color rgb(97,250,255);
+             }
        </style>
 
 
@@ -45,8 +46,8 @@
          <em>Goats are stubborn</em> but their meat is very sweet.<br>
          I love goat meat.Goat meat is sweet but expensive and full of bones.<br>
          I will still eat goat meat with the bones, because <strong> <br>
-         I just can't get enough of that sweet flavor!</strong> <br> </p>
-
+         I just can't get enough of that sweet flavor!</strong> <br>
+         </p>
     </body>
 </html>
 
