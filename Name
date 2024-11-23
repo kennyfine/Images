@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: Colorful creature</title>
+        <title>Challenge: All about goat meat</title>
         <style>
         h2 {
             colour; rgb(255,255,255);
@@ -15,9 +15,11 @@
     </head>
     <body>
 
-        <h1>The coolest creature</h1>
+        <h1>All about goat meat</h1>
 
-        <p>The <em></em> is awesome because <strong></strong>.</p>
+        <h2>Basic info</h2>
+        <p> Goat are stubborn but their meat is very sweet. I love goat meat. Goat meat is sweet but expensive and full of bones. I will still eat goat meat with the bones
+        </p>
 
     </body>
 </html>
